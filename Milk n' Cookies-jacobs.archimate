@@ -43,39 +43,39 @@
     <element xsi:type="archimate:BusinessFunction" id="bf352870" name="Entrega"/>
     <element xsi:type="archimate:BusinessActor" id="742897d1" name="Ventas"/>
     <element xsi:type="archimate:BusinessActor" id="1f3fc2ad" name="Asesor de ventas"/>
-    <element xsi:type="archimate:BusinessActor" id="ca7eb10a" name="Cliente (copy)"/>
-    <element xsi:type="archimate:Product" id="a417cb5e" name="App Movil y App Web (copy)"/>
-    <element xsi:type="archimate:Contract" id="61f1309b" name="Contrato de uso de la aplicación (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="54de4e39" name="Crea un canal digital (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="e5f8377e" name="Marketing (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="532fadff" name="Ofrece tus servicios (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="6d591724" name="Atrae nuevos clientes (copy)"/>
-    <element xsi:type="archimate:Value" id="88bacbca" name="Producto digital para los clientes de nuestro cliente (copy)"/>
-    <element xsi:type="archimate:Product" id="d3798dc3" name="Manejo de Redes Sociales (copy)"/>
-    <element xsi:type="archimate:Value" id="df446ac9" name=" (copy)"/>
+    <element xsi:type="archimate:BusinessActor" id="ca7eb10a" name="Cliente"/>
+    <element xsi:type="archimate:Product" id="a417cb5e" name="App Movil y App Web"/>
+    <element xsi:type="archimate:Contract" id="61f1309b" name="Contrato de uso de la aplicación"/>
+    <element xsi:type="archimate:BusinessService" id="54de4e39" name="Crea un canal digital"/>
+    <element xsi:type="archimate:BusinessService" id="e5f8377e" name="Marketing"/>
+    <element xsi:type="archimate:BusinessService" id="532fadff" name="Ofrece tus servicios"/>
+    <element xsi:type="archimate:BusinessService" id="6d591724" name="Atrae nuevos clientes"/>
+    <element xsi:type="archimate:Value" id="88bacbca" name="Producto digital para los clientes de nuestro cliente"/>
+    <element xsi:type="archimate:Product" id="d3798dc3" name="Manejo de Redes Sociales"/>
+    <element xsi:type="archimate:Value" id="df446ac9" name="Creamos contenido digital para tus redes"/>
     <element xsi:type="archimate:BusinessProcess" id="159fdfc6" name="Business Process (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="2028c4e3" name="Vender (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="4a7968bb" name="Delimitación del alcance tecnico (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="51abf005" name="Arquitectura de Información (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="21877673" name="Conformar Equipo (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="cdfe878a" name="Desarrollar (copy)"/>
-    <element xsi:type="archimate:BusinessActor" id="b48776a6" name="Cliente (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="2808be63" name="Desarrollo de apps web (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="a0cec3a8" name="Desarrollo de apps (copy)"/>
-    <element xsi:type="archimate:BusinessActor" id="2ee1e45f" name="Trabajadores (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="e9129870" name="Manejo de redes sociales (copy)"/>
-    <element xsi:type="archimate:BusinessService" id="aae899dd" name="Emprendimientos (copy)"/>
-    <element xsi:type="archimate:BusinessActor" id="7b90ed24" name="Cliente (copy)"/>
-    <element xsi:type="archimate:BusinessEvent" id="4fac60d6" name="Detección de Oportunidad (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="b319599e" name="Business Process (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="8acceb78" name="Vender (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="c865e532" name="Delimitación del alcance tecnico (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="152fdebe" name="Arquitectura de Información (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="3fc43adc" name="Conformar Equipo (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="a4448f5f" name="Desarrollar (copy)"/>
-    <element xsi:type="archimate:BusinessProcess" id="a44b9493" name="Delimitación del alcance (copy)"/>
-    <element xsi:type="archimate:BusinessEvent" id="82f60708" name="Detección de Oportunidad (copy)"/>
-    <element xsi:type="archimate:Contract" id="6ed1a7c0" name="Contrato (copy)"/>
+    <element xsi:type="archimate:BusinessProcess" id="2028c4e3" name="Vender"/>
+    <element xsi:type="archimate:BusinessProcess" id="4a7968bb" name="Delimitación del alcance tecnico"/>
+    <element xsi:type="archimate:BusinessProcess" id="51abf005" name="Arquitectura de Información"/>
+    <element xsi:type="archimate:BusinessProcess" id="21877673" name="Conformar Equipo "/>
+    <element xsi:type="archimate:BusinessProcess" id="cdfe878a" name="Desarrollar"/>
+    <element xsi:type="archimate:BusinessActor" id="b48776a6" name="Cliente"/>
+    <element xsi:type="archimate:BusinessService" id="2808be63" name="Desarrollo de apps web"/>
+    <element xsi:type="archimate:BusinessService" id="a0cec3a8" name="Desarrollo de apps"/>
+    <element xsi:type="archimate:BusinessActor" id="2ee1e45f" name="Trabajadores"/>
+    <element xsi:type="archimate:BusinessService" id="e9129870" name="Manejo de redes sociales"/>
+    <element xsi:type="archimate:BusinessService" id="aae899dd" name="Emprendimientos"/>
+    <element xsi:type="archimate:BusinessActor" id="7b90ed24" name="Cliente"/>
+    <element xsi:type="archimate:BusinessEvent" id="4fac60d6" name="Detección de Oportunidad"/>
+    <element xsi:type="archimate:BusinessProcess" id="b319599e" name="Business Process"/>
+    <element xsi:type="archimate:BusinessProcess" id="8acceb78" name="Vender"/>
+    <element xsi:type="archimate:BusinessProcess" id="c865e532" name="Delimitación del alcance tecnico"/>
+    <element xsi:type="archimate:BusinessProcess" id="152fdebe" name="Arquitectura de Información"/>
+    <element xsi:type="archimate:BusinessProcess" id="3fc43adc" name="Conformar Equipo"/>
+    <element xsi:type="archimate:BusinessProcess" id="a4448f5f" name="Desarrollar"/>
+    <element xsi:type="archimate:BusinessProcess" id="a44b9493" name="Delimitación del alcance"/>
+    <element xsi:type="archimate:BusinessEvent" id="82f60708" name="Detección de Oportunidad"/>
+    <element xsi:type="archimate:Contract" id="6ed1a7c0" name="Contrato"/>
   </folder>
   <folder name="Application" id="565344ea" type="application"/>
   <folder name="Technology" id="95942f43" type="technology"/>
@@ -180,7 +180,7 @@
         <bounds x="700" y="245" width="445" height="214"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="3ddf0e3d" textAlignment="2" targetConnections="67e82930" archimateElement="df446ac9">
-        <bounds x="796" y="126" width="120" height="55"/>
+        <bounds x="780" y="126" width="136" height="67"/>
         <sourceConnection xsi:type="archimate:Connection" id="68b777a7" source="3ddf0e3d" target="67579b35" relationship="4738d7ea"/>
       </child>
     </element>
