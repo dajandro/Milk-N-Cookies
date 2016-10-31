@@ -1,0 +1,60 @@
+-- primera reunon --
+
+2006
+2009 independizacion
+Boutique de desarrollo
+Apps - Web - Dise;adores - Social Media
+
+4 accionistas (Consejo de Admon)
+Gerente general
+Director de producccion (evalua avances esperados en tiempos esperados), innovador y dise;o, tecnico, social media
+Comunidades de soporte (finanzas, recursos humanos)
+Comunity manager, dise;adro/animador
+Lider de progra
+Equipo de progra
+
+Asesor digital (Vendedor) -> aterrizar la idea -> alineaciones del cliente -> reuniones con los directores
+
+Directores: Delimitacion de alcance del proyecto -> arquitectura de informacion (mockups, casos de uso, etc) -> reunion inicial (definir quienes trabajan en el proyecto) -> desarrollo -> QA -> primera entrega a cliente de revision -> correcciones -> release inicial
+
+
+-- revision con Sergio en clase --
+conseguir otro stake holder
+
+Key partners? Donde publican sus cosas? AWS? Azure? Github?
+
+-- segunda reunion --
+
+emprendimiento (lean startup)
+no delimitar alcance, se resuelve un problema
+definir mvp (minipo producto viable)
+evaluar crecimiento
+
+detecta -> alcance -> venta/ -> alcance (con equipo tecnico y componentes tecnicos) -> documento de arq info
+
+vender == crear canales digitales para atender las necesidades del cliente
+
+los terminos de condicion los decide el clinte (respaldo legal)
+
+Social Management (como un "call center") -> crear estrategia -> matriz de contenido -> posteo -> respuestas
+
+Customer relationships: conferencias privadas
+
+
+
+Director de Produccion
+
+5 dptos
+Poject management -> pasa el produccto por todos los dptos
+Project manager -> delimita opciones con lo que quiere resolver y lo que se vendio -> innovacion (ver alcance desde punto de vista usuario) -> dise;o (aprox grafica = solicitar al cliente lineamientos de marca, info general. Mockups. Dise;o completo) -> Desarrollo a donde corresponda , hacen diagramas de entidad relacion -> ambiente de desarrollo, prueba y produccion -> iteraciones de scrum -> QA (externos) -> 15 dias test -> cierre de proyecto -> orden de publicacion
+
+Social media
+proceso comercial -> project manager -> delimitacion -> (ventas de 12 meses) matriz de propuesta -> validacion -> community manager ejecuta -> cada 3 meses se reevalua si se debe cambiar algo en la mecanica -> contrato o cierre
+
+Project manager
+Pre inicial (comercial) -> inicial (reunion con tecnicos) y se presenta a cliente -> proceso que ya esta escrito
+
+Administracion de proyectos (team work): minutas, pre inicial, inicial, firma con validacion de alcance, ppts, versiones de dise;o, versiones de apox graficas, desarrollo, delegacion de resp, asignacion de recursos
+
+Implementacion
+citar cliente -> tutoriales -> que el cliente traiga info para popular sistema -> capacitacion al cliente -> documento de guia
