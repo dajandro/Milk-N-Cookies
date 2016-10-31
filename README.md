@@ -1,15 +1,15 @@
-# AE-Proyecto2
+﻿# AE-Proyecto2
 # Arquitectura Empresarial
 
 Archimate
 
 Introductoria --> Ready to go<br />
-Organización --> Ready to go<br />
+Organización --> Ready to go v2.0<br />
 Colaboraciones<br />
 Función de negocio<br />
 Producto --> Ready to go<br />
 Realización de servicio<br />
-Cooperación de procesos de negocio<br />
+Cooperación de procesos de negocio --> Ready to go v2.0<br />
 Proceso de negocio --> Ready to go<br />
 Estructura de información<br />
 Cooperación de aplicación<br />
