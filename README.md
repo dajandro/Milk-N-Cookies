@@ -8,7 +8,7 @@ Ready to go --> Organización<br />
 Ready to go --> Cooperación de actores<br />
 Función de negocio<br />
 Ready to go --> Producto<br />
-Realización de servicio<br />
+Ready to go --> Realización de servicios<br />
 Ready to go --> Cooperación de procesos de negocio<br />
 Ready to go --> Proceso de negocio<br />
 Estructura de información<br />
