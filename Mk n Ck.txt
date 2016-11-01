@@ -40,10 +40,10 @@ Social Management (como un "call center") -> crear estrategia -> matriz de conte
 
 Customer relationships: conferencias privadas
 
-Organización:
+OrganizaciÃ³n:
 Director de ventas, Asesor digital debajo del director de ventas
 
-diseñadores de social media y social media estrategas
+diseÃ±adores de social media y social media estrategas
 
 CTO
 lideres de mesa
@@ -52,8 +52,8 @@ desarrolladores
 Produccion
 PM
 
-Diseño
-diseñadores 
+DiseÃ±o
+diseÃ±adores 
 
 Funcion del proceso de negoicio
 Test es un loop
@@ -68,12 +68,12 @@ pruebas en digital ocean
 dropbox
 
 google near line
-red lan, switch, firewall clear, servidor de archivos compartidos(local)
+red lan, switch, firewall clearBOX, servidor de archivos compartidos(local)
 
 banca no maneja nada en la nube, instalaciones del cleinte. Se trabaja con VPN
 
 key resocurces
-diseñadores y programadores
+diseÃ±adores y programadores
 no se trabaja para el gobierno, ongs se ayuda 
 
 como se publicitan
