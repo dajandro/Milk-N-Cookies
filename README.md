@@ -5,7 +5,7 @@ Archimate
 
 Introductoria --> Ready to go<br />
 Organización --> Ready to go v2.0<br />
-Colaboraciones<br />
+Cooperación de actores<br />
 Función de negocio<br />
 Producto --> Ready to go<br />
 Realización de servicio<br />
@@ -17,5 +17,5 @@ Uso de aplicación<br />
 Comportamiento de aplicación<br />
 Estructura de aplicación<br />
 Infraestructura<br />
-Infraestructura de aplicaciones<br />
+Uso de infraestructura<br />
 Implementación<br />
