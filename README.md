@@ -16,6 +16,6 @@ Ready to go --> Cooperación de aplicación<br />
 Ready to go --> Uso de aplicación<br />
 Comportamiento de aplicación<br />
 Ready to go --> Estructura de aplicación<br />
-Infraestructura<br />
+Ready to go --> Infraestructura<br />
 Uso de infraestructura<br />
 Implementación<br />
