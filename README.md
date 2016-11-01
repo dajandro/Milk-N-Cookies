@@ -3,17 +3,17 @@
 
 Archimate
 
-Introductoria --> Ready to go<br />
-Organización --> Ready to go<br />
-Cooperación de actores --> Ready to go<br />
+Ready to go --> Introductoria<br />
+Ready to go --> Organización<br />
+Ready to go --> Cooperación de actores<br />
 Función de negocio<br />
-Producto --> Ready to go v2.0<br />
+Ready to go --> Producto<br />
 Realización de servicio<br />
-Cooperación de procesos de negocio --> Ready to go<br />
-Proceso de negocio --> Ready to go<br />
+Ready to go --> Cooperación de procesos de negocio<br />
+Ready to go --> Proceso de negocio<br />
 Estructura de información<br />
 Cooperación de aplicación<br />
-Uso de aplicación --> Ready to go<br />
+Ready to go --> Uso de aplicación<br />
 Comportamiento de aplicación<br />
 Estructura de aplicación<br />
 Infraestructura<br />
