@@ -40,7 +40,46 @@ Social Management (como un "call center") -> crear estrategia -> matriz de conte
 
 Customer relationships: conferencias privadas
 
+Organización:
+Director de ventas, Asesor digital debajo del director de ventas
 
+diseñadores de social media y social media estrategas
+
+CTO
+lideres de mesa
+desarrolladores
+
+Produccion
+PM
+
+Diseño
+diseñadores 
+
+Funcion del proceso de negoicio
+Test es un loop
+Emprendimiento no se delimita alcance, solo se busca que problema se va a recolver
+
+Proveedores, todo lo que produce cuando se llega al limite se saca a vederlo, contabilidad esta fuera
+
+Beatbocket
+JIRA
+Amazon, google digital ocean, dreamhost
+pruebas en digital ocean
+dropbox
+
+google near line
+red lan, switch, firewall clear, servidor de archivos compartidos(local)
+
+banca no maneja nada en la nube, instalaciones del cleinte. Se trabaja con VPN
+
+key resocurces
+diseñadores y programadores
+no se trabaja para el gobierno, ongs se ayuda 
+
+como se publicitan
+escriben articulos en revistas
+clases en universidades
+conferencias
 
 Director de Produccion
 
