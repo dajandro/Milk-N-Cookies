@@ -13,7 +13,7 @@ Cooperación de procesos de negocio --> Ready to go v2.0<br />
 Proceso de negocio --> Ready to go v2.0<br />
 Estructura de información<br />
 Cooperación de aplicación<br />
-Uso de aplicación Ready to go<br />
+Uso de aplicación --> Ready to go<br />
 Comportamiento de aplicación<br />
 Estructura de aplicación<br />
 Infraestructura<br />
