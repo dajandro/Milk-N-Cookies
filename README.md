@@ -1,9 +1,10 @@
 ﻿# AE-Proyecto 2 @UVG
 # Arquitectura Empresarial
+# Archimate
 
-Archimate
-
-Introductoria<br />
+Perspectivas:
+<ul>
+<li>Introductoria<br />
 Organización<br />
 Cooperación de actores<br />
 Función de negocio<br />
@@ -19,3 +20,4 @@ Estructura de aplicación<br />
 Infraestructura<br />
 Uso de infraestructura<br />
 Implementación<br />
+Información generada por actores<br />
