@@ -4,20 +4,20 @@
 
 Perspectivas:
 <ul>
-<li>Introductoria<br />
-Organización<br />
-Cooperación de actores<br />
-Función de negocio<br />
-Producto<br />
-Realización de servicios<br />
-Cooperación de procesos de negocio<br />
-Proceso de negocio<br />
-Estructura de información<br />
-Cooperación de aplicación<br />
-Uso de aplicación<br />
-Comportamiento de aplicación<br />
-Estructura de aplicación<br />
-Infraestructura<br />
-Uso de infraestructura<br />
-Implementación<br />
-Información generada por actores<br />
+<li>Introductoria</li>
+<li>Organización</li>
+<li>Cooperación de actores</li>
+<li>Función de negocio</li>
+<li>Producto</li>
+<li>Realización de servicios</li>
+<li>Cooperación de procesos de negocio</li>
+<li>Proceso de negocio</li>
+<li>Estructura de información</li>
+<li>Cooperación de aplicación</li>
+<li>Uso de aplicación</li>
+<li>Comportamiento de aplicación</li>
+<li>Estructura de aplicación</li>
+<li>Infraestructura</li>
+<li>Uso de infraestructura</li>
+<li>Implementación</li>
+<li>Información generada por actores</li>
