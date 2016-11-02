@@ -1,21 +1,21 @@
-﻿# AE-Proyecto2
+﻿# AE-Proyecto 2 @UVG
 # Arquitectura Empresarial
 
 Archimate
 
-Ready to go --> Introductoria<br />
-Ready to go --> Organización<br />
-Ready to go --> Cooperación de actores<br />
-Ready to go --> Función de negocio<br />
-Ready to go --> Producto<br />
-Ready to go --> Realización de servicios<br />
-Ready to go --> Cooperación de procesos de negocio<br />
-Ready to go --> Proceso de negocio<br />
-Ready to go --> Estructura de información<br />
-Ready to go --> Cooperación de aplicación<br />
-Ready to go --> Uso de aplicación<br />
-Ready to go --> Comportamiento de aplicación<br />
-Ready to go --> Estructura de aplicación<br />
-Ready to go --> Infraestructura<br />
-Ready to go --> Uso de infraestructura<br />
-Ready to go --> Implementación<br />
+Introductoria<br />
+Organización<br />
+Cooperación de actores<br />
+Función de negocio<br />
+Producto<br />
+Realización de servicios<br />
+Cooperación de procesos de negocio<br />
+Proceso de negocio<br />
+Estructura de información<br />
+Cooperación de aplicación<br />
+Uso de aplicación<br />
+Comportamiento de aplicación<br />
+Estructura de aplicación<br />
+Infraestructura<br />
+Uso de infraestructura<br />
+Implementación<br />
