@@ -14,7 +14,7 @@ Ready to go --> Proceso de negocio<br />
 Ready to go --> Estructura de información<br />
 Ready to go --> Cooperación de aplicación<br />
 Ready to go --> Uso de aplicación<br />
-Comportamiento de aplicación<br />
+Ready to go --> Comportamiento de aplicación<br />
 Ready to go --> Estructura de aplicación<br />
 Ready to go --> Infraestructura<br />
 Ready to go --> Uso de infraestructura<br />
