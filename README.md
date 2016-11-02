@@ -21,3 +21,4 @@ Perspectivas:
 <li>Uso de infraestructura</li>
 <li>Implementación</li>
 <li>Información generada por actores</li>
+<li>Stakeholder</li>
