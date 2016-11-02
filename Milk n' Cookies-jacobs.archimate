@@ -623,5 +623,37 @@
         <sourceConnection xsi:type="archimate:Connection" id="0a27519b" source="b6084cd6" target="36e0d7d1" relationship="ffed98e7"/>
       </child>
     </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" id="c003a22a" name="Uso de infraestructura">
+      <child xsi:type="archimate:DiagramObject" id="84d2f49a" textAlignment="2" archimateElement="4f17a06b">
+        <bounds x="636" y="181" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="8f680bdc" textAlignment="2" archimateElement="21267aa1">
+        <bounds x="144" y="181" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="581dc630" textAlignment="2" archimateElement="31fc5800">
+        <bounds x="468" y="181" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="34bae523" textAlignment="2" archimateElement="1245e612">
+        <bounds x="300" y="181" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:Note" id="ebc2b4b6" textAlignment="1">
+        <bounds x="252" y="300" width="371" height="145"/>
+        <content>Milk n' Cookies no cuenta con infraestructura para uso de la empresa, mas que un servidor para compartir archivos. Solo utiliza infraestructura para los productos que se le venden al cliente y esta infraestructura depende de los requerimientos del cliente.</content>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="11a5f6a9" textAlignment="2" archimateElement="820fe0bf">
+        <bounds x="284" y="480" width="339" height="251"/>
+        <child xsi:type="archimate:DiagramObject" id="0ae47913" textAlignment="2" targetConnections="32319211" archimateElement="01130be8">
+          <bounds x="12" y="96" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="05f262d6" source="0ae47913" target="8bd52d15" relationship="a0782375"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="24ff3d56" textAlignment="2" archimateElement="21478a83">
+          <bounds x="12" y="180" width="120" height="55"/>
+          <sourceConnection xsi:type="archimate:Connection" id="32319211" source="24ff3d56" target="0ae47913" relationship="ee0074e1"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="8bd52d15" textAlignment="2" targetConnections="05f262d6" archimateElement="e4c97061">
+          <bounds x="192" y="96" width="120" height="55"/>
+        </child>
+      </child>
+    </element>
   </folder>
 </archimate:model>
