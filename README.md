@@ -6,7 +6,7 @@ Archimate
 Ready to go --> Introductoria<br />
 Ready to go --> Organización<br />
 Ready to go --> Cooperación de actores<br />
-Función de negocio<br />
+Ready to go --> Función de negocio<br />
 Ready to go --> Producto<br />
 Ready to go --> Realización de servicios<br />
 Ready to go --> Cooperación de procesos de negocio<br />
